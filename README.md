@@ -17,7 +17,7 @@ TABLE OF CONTENTS
 GENERAL INFORMATION
 --------------------
 ​
-1. **Publication or Dataset title:** Spatially organized lymphocytic microenvironments in high grade primary prostate tumors
+1. **Publication or Dataset title:** Spatial statistics for identifying and scoring immune clusters in high-plex profiles of primary prostate cancer
 ​
 2. **Authors:** Ali Amiryousefi, Jeremiah Wala, Jia-Ren Lin, Brian William Labadie, Aishwarya Atmakuri, Eamon Toye, Kiranj Chaudagar, Madeleine S. Torcasso, Shannon Coy, Giuseppe Nicolo Fanelli, Brigette Kobs, Fabio Socciarelli, Andreanne Gagne, Eliezer M. Van Allen, Akash Patnaik, and Peter Sorger 
 ​
