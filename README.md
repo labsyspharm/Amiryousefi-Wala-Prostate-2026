@@ -22,9 +22,9 @@ GENERAL INFORMATION
 2. **Authors:** Ali Amiryousefi, Jeremiah Wala, Jia-Ren Lin, Brian William Labadie, Aishwarya Atmakuri, Eamon Toye, Kiranj Chaudagar, Madeleine S. Torcasso, Shannon Coy, Giuseppe Nicolo Fanelli, Brigette Kobs, Fabio Socciarelli, Andreanne Gagne, Eliezer M. Van Allen, Akash Patnaik, and Peter Sorger 
 ​
 3. **Please cite this data as the following**    
-Peter Sorger, Ali Amiryousefi. (2025). PCa (V.1) []. Location: Laboratory of Systems Phramacology @ SysBio, HMS.    
-  
-4. **Relevant links:** XX
+Amiryousefi, Ali, et al. "Spatially organized lymphocytic microenvironments in high grade primary prostate tumors." BioRxiv (2025).
+
+5. **Relevant links:** XX
 > * Publication DOI: XX [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
 > * Associated GitHub Repository: [eddy](https://github.com/search?q=org%3Alabsyspharm%20eddy&type=code)
 > * To view an archived record of this repository: XX [My-ZENODO-DOI](https://zenodo.org/doi/MY-ZENDODO-DOI-URL) 
